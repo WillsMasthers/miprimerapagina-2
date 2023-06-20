@@ -90,7 +90,7 @@ padding: 40px;
     margin: 0px;
   }
 
-
+*/
 @media (max-width: 768px) {
     .column {
       flex: 100%;
@@ -156,7 +156,7 @@ padding: 40px;
 } 
 
 
-/*
+
   @media (max-width: 767px) {
     header {
         background-color: rosybrown;
